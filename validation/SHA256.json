@@ -1,0 +1,11 @@
+{
+  "kicad/fp-lib-table": "d6d7f9e07bfb3574914f13a5a049c5f1d56b70f48a11c972be02d002404e26d6",
+  "kicad/LED_Box.kicad_pcb": "8bab3d32b2573a75d68c81fcbd676c1b604ba577ad6a44b39b9c3327d569c106",
+  "kicad/LED_Box.kicad_pro": "274ecd62d387062feec6bfbf73710ea5a74b7de92ca35f9375a4dc412b4c157c",
+  "kicad/LED_Box.kicad_sch": "d962eddb35b79b4817bddbee72ffd5486a75fd4e921aaec8f740c62163c64515",
+  "kicad/\ud68c\ub85c\ub3c4.pdf": "004f29715ef34475d3ce5746de4204e92f740187b2fdd8b2242ac6bf566bd479",
+  "step/LED_Box_Assembly.step": "b448100762384c714e88b6990c1f0dac896991038ca71e91059e15f70af103f2",
+  "step/LED_Box_PCB.step": "88fd68a41fb38caa5ff758c413f77af13eb023bf158f0d8519c13ed193908fb2",
+  "solidcraft/LED_Box_STEP_Assembled.solidcraft": "9cd0741266d9ac89205214fe537b83e135d1ed0a66c58e36cb0cbc87059c9efa",
+  "solidcraft/LED_Box_STEP_Exploded.solidcraft": "b5d244e0d814b5065ff886feb7fda6ec2da0ab8185953829e2eae17614cce671"
+}

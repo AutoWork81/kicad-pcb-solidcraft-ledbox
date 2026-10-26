@@ -1,0 +1,8 @@
+*.solidcraft binary
+*.pdf binary
+*.step -text -whitespace
+*.kicad_pcb -text
+*.kicad_sch -text
+*.kicad_pro -text
+fp-lib-table -text
+*.md text eol=lf

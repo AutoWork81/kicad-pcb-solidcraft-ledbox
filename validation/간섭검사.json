@@ -1,0 +1,76 @@
+{
+  "boolean_ms": 797.364,
+  "budget_exceeded": false,
+  "budget_s": 30.0,
+  "checked": 7,
+  "count": 0,
+  "interferences": [],
+  "ms": 232.955,
+  "pairs_candidate": 10,
+  "pairs_cleared": 0,
+  "pairs_intersected": 10,
+  "pairs_not_checked": 0,
+  "skipped_pairs": 0,
+  "slowest": [
+    {
+      "a": "LED_Box_PCB",
+      "b": "R_Axial_DIN0207_L63mm_D25mm_P1016mm_Horizontal",
+      "boolean_ms": 107.247,
+      "ms": 212.091,
+      "tessellate_ms": 0.0
+    },
+    {
+      "a": "Base",
+      "b": "SW_DIP_SPSTx01_Slide_67x41mm_W762mm_P254mm_LowProfile",
+      "boolean_ms": 39.733,
+      "ms": 206.896,
+      "tessellate_ms": 0.0
+    },
+    {
+      "a": "LED_Box_PCB",
+      "b": "TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",
+      "boolean_ms": 110.545,
+      "ms": 188.14,
+      "tessellate_ms": 0.0
+    },
+    {
+      "a": "Base",
+      "b": "R_Axial_DIN0207_L63mm_D25mm_P1016mm_Horizontal",
+      "boolean_ms": 98.129,
+      "ms": 185.04,
+      "tessellate_ms": 0.0
+    },
+    {
+      "a": "Base",
+      "b": "LED_Box_PCB",
+      "boolean_ms": 103.905,
+      "ms": 172.779,
+      "tessellate_ms": 0.0
+    },
+    {
+      "a": "Base",
+      "b": "LED_D5.0mm",
+      "boolean_ms": 55.846,
+      "ms": 153.421,
+      "tessellate_ms": 0.0
+    },
+    {
+      "a": "LED_Box_PCB",
+      "b": "SW_DIP_SPSTx01_Slide_67x41mm_W762mm_P254mm_LowProfile",
+      "boolean_ms": 119.404,
+      "ms": 149.513,
+      "tessellate_ms": 0.0
+    },
+    {
+      "a": "Base",
+      "b": "TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",
+      "boolean_ms": 63.293,
+      "ms": 147.923,
+      "tessellate_ms": 0.0
+    }
+  ],
+  "tessellate_ms": 0.0,
+  "threads": 10,
+  "truncated": false,
+  "unchecked": []
+}
